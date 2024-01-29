@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+# .vs
+ipch
+*.ipch
+Browse.VC.db
+
+#script
+*.bat
+
